@@ -1,4 +1,4 @@
-GeoSigNet
+無人機空對地訊號強度預測模型
 ===
 
 ## **Model architecture**
